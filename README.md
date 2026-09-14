@@ -15,7 +15,7 @@ Coletar todos os pacotes de dados nas fases em labirinto e chegar ao portal de s
 Setas ou W, A, S, D para andar, Espaço para pular/desviar, e E para interagir.
 
 # Inimigos/Obstáculos:
-Firewalls móveis e drones de segurança patrulhando o cenário.
+Armas e drones de segurança protegendo o cenário o cenário.
 
 # Coletáveis:
 Pacotes de dados e chips de aceleração.
