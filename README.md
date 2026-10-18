@@ -1,27 +1,26 @@
-# Trabalho-de-Jogos-Resgate-Digital-
+**Trabalho de Jogos: O Mago das Poções**
+**Entrega 1 – Desenvolvimento de jogos**
 
-# Entrega 1- Desenvolvimento de jogos 
+**Título:**
+O Mago das Poções
 
-# Título: 
-Resgate Digital
+**Tema:**
+Um mago aprendiz perdido em masmorras de pedra, tentando recuperar os frascos de poção que se espalharam pelo caminho.
 
-# Tema: 
-Entregador de dados em um mundo futurista de tecnologia que precisa contrabandear arquivos pelas redes subterrâneas.
+**Objetivo:**
+Pegar todos os frascos de poção de cada fase, andando pelos labirintos de pedra. Quando pega o último frasco, já cai direto na próxima fase.
 
-# Objetivo: 
-Coletar todos os pacotes de dados nas fases em labirinto e chegar ao portal de saída antes do tempo acabar.
+**Controles:**
+Setas do teclado pra andar e Esc pra voltar pro menu.
 
-# Controles:
-Setas ou W, A, S, D para andar, Espaço para pular/desviar, e E para interagir.
+**Inimigos/Obstáculos:**
+As paredes de pedra e a decoração (baús, barris, lápides) fecham o caminho. Se o mago encostar em algum deles, ele perde e a fase recomeça.
 
-# Inimigos/Obstáculos:
-Armas e drones de segurança protegendo o cenário o cenário.
+**Colecionáveis:**
+Frascos de poção: 3 na fase 1, 5 na fase 2 e 8 na fase 3.
 
-# Coletáveis:
-Pacotes de dados e chips de aceleração.
+**Vitória e Derrota:**
+Ganha quem pegar todos os frascos das 3 fases. Perde se encostar em parede ou obstáculo, aí a fase começa de novo.
 
-# Vitória e Derrota: 
-Vence ao pegar os dados e chegar na saída; perde se o tempo zerar ou se esgotarem as 3 vidas ao encostar nos inimigos.
-
-# Dificuldade e Visual: 
-3 fases com dificuldade crescente (mais inimigos e tempo menor) em estilo pixel art com luzes neon.
+**Dificuldade e Visual:**
+São 3 fases, cada uma mais difícil que a anterior: labirinto maior e mais complicado e mais frascos pra coletar. O visual é pixel art (pacote Tiny Dungeon da Kenney) e a câmera segue o mago, então dá pra ver só um pedacinho do mapa por vez.
